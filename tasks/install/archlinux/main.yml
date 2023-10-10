@@ -1,0 +1,7 @@
+- name: "Install the 'pdfarranger' application package"
+  ansible.builtin.package:
+    name: pdfarranger
+    state: present
+  become: true
+  become_user: root
+

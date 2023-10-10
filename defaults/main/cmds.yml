@@ -1,0 +1,3 @@
+# command to execute to run pdfarranger
+pdfarranger_main_cmd: 'pdfarranger'
+
